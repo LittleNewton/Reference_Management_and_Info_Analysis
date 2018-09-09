@@ -1,0 +1,67 @@
+├─PDF
+│  ├─0004745861
+│  │      Seth-2008-TCP_IP Architecture, Design, and Imp.pdf
+│  │
+│  ├─4277886595
+│  │      嘉当-2009-微分学.pdf
+│  │      
+│  ├─4281820327
+│  │      The Holy Bible.pdf
+│  │      
+│  └─4290723725
+│          平冈和幸-2016-程序员的数学 3, 线性代数.pdf
+│          
+├─rdb
+│      csort.frm
+│      csort.MYD
+│      csort.MYI
+│      db.opt
+│      jterms.frm
+│      jterms.MYD
+│      jterms.MYI
+│      misc.frm
+│      misc.MYD
+│      misc.MYI
+│      pdf_index.frm
+│      pdf_index.MYD		/*very huge*/
+│      pdf_index.MYI
+│      refs.frm
+│      refs.MYD
+│      refs.MYI
+│      refs_ext.frm
+│      refs_ext.MYD
+│      refs_ext.MYI
+│      reftype.frm
+│      sact.frm
+│      sact.MYD
+│      sact.MYI
+│      sync.frm
+│      sync.MYD
+│      sync.MYI
+│      terms.frm
+│      terms.MYD
+│      terms.MYI
+│      
+└─tdb
+        csort.frm
+        csort.MYD
+        csort.MYI
+        db.opt
+        jterms.frm
+        jterms.MYD
+        jterms.MYI
+        misc.frm
+        misc.MYD
+        misc.MYI
+        pdf_index.frm
+        pdf_index.MYD
+        pdf_index.MYI
+        refs.frm
+        refs.MYD
+        refs.MYI
+        refs_ext.frm
+        refs_ext.MYD
+        refs_ext.MYI
+        terms.frm
+        terms.MYD
+        terms.MYI
